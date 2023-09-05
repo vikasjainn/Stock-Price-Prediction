@@ -16,7 +16,7 @@ This repository contains a stock price prediction application built using LSTM (
 
 ## Introduction
 
-Stock price prediction is a challenging problem, and this application utilizes LSTM, a type of recurrent neural network (RNN), to capture long-term dependencies in the historical stock data. The app preprocesses the data, trains the LSTM model, and generates predictions for future stock prices.
+Stock price prediction is a challenging problem, and this application utilizes LSTM, a type of recurrent neural network (RNN), to capture long-term dependencies in historical stock data. The app preprocesses the data, trains the LSTM model, and generates predictions for future stock prices.
 
 ## Features
 
