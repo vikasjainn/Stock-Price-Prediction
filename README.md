@@ -2,7 +2,7 @@
 
 This repository contains a stock price prediction application built using LSTM (Long Short-Term Memory) and other machine learning techniques. The app aims to forecast future stock prices based on historical data and provides users with valuable insights for making informed investment decisions.
 
-## Table of Contents
+## Table of Contents.
 
 - [Introduction](#introduction)
 - [Features](#features)
